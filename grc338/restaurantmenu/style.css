@@ -34,8 +34,8 @@ h2 {
 
 h3 {
 	margin: 0.5em 3em 2em; /*Three values again. You got the idea.*/
-	padding-top: 1em;
-	font-size: 3em;
+	padding-top: 2em;
+	font-size: 2em;
 	color: rgb(176, 45, 45);
 	font-weight: bold;
 	text-transform: uppercase;
@@ -60,6 +60,6 @@ ul {
 }
 
 li { 
-	margin: 1em 2em;
+	margin: 1em 0.5em;
 	list-style-type: none;
 }
