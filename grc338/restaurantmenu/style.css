@@ -14,20 +14,20 @@ body {
 }
 
 h1 {
-	background-color: rgb(200, 200, 200);
+	background-color: rgb(163, 162, 171);
 	color: rgb(232, 232, 232); /* Same as body background. */
 	font-size: 4em;
-	padding: 1em 6em 2em; /* You want three values. */
+	padding: 1em 3em 2em; /* You want three values. */
 	font-weight: bold;
 	text-transform: uppercase;
 }
 
 
 h2 {
-	background-color: rgb(200, 200, 200);
+	background-color: rgb(163, 162, 171);
 	color: rgb(232, 232, 232);
 	font-size: 3em;
-	padding: 1em 6em 2em;
+	padding: 1em 3em 2em;
 	font-family: serif;
 	font-weight: bold;
 }
