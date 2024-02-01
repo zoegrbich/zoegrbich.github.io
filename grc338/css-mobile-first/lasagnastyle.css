@@ -8,7 +8,7 @@ img {
 }
 
 body {
-    background-color: rgb (245,245,245);
+    background-color: rgb(245,245,245);
     color: rgb(29,28,27);
     line-height: 190%;
     font-family: poppins, sans-serif;
@@ -73,4 +73,5 @@ footer {
 
 
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
+
 
