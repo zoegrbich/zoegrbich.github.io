@@ -53,16 +53,8 @@ figcaption {
     font-style: italic;
 }
 
-ul {
-	margin: 0.1em 1em 0.1em;
-}
-
-ol {
-    margin: 0.1em 1em 0.2em;
-}
-
 li { 
-	margin: 0.1em 1em 1em;
+	margin: 0.1em 2em 1em;
 }
 
 footer {
