@@ -57,6 +57,10 @@ li {
 	margin: 0.1em 2em 1em;
 }
 
+ol {
+    padding-bottom: 3em;
+}
+
 footer {
     background-color: rgb(250, 158, 30);
 	color: rgb(245, 245, 245);
