@@ -1,0 +1,124 @@
+/*CSS document*/
+
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+body {
+	font-family: sans-serif;
+	line-height: 1.2em;
+	color: #222;
+    text-decoration: none;
+    padding: 0.5em;
+	}
+
+div.container {
+    max-width: 45em;
+    margin: auto;
+}
+
+h1 {
+    width: 10em;
+}
+
+nav ul li {
+    display: block;
+    margin-right: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
+    font-family: sans-serif;
+    line-height: 1.2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 1em 0em;
+}
+
+nav ul li a {
+    color: rgb(74, 135, 176);
+    text-decoration: none;
+}
+
+@media (min-width: 45em){
+    nav ul li {
+        display: inline-block;
+        padding-right: 0.8em;
+    }
+}
+
+h2 {
+    font-family: serif;
+    font-size: 2em;
+    font-weight: bold; 
+    color: rgb(74, 135, 176);
+    text-decoration: none;
+    line-height: 1.2em;
+}
+
+section.mainstory h2 {
+    font-size: 3em;
+}
+
+section.tertiary h2 {
+    font-size: 1.2em;
+    border-top: 1px solid rgb(155, 196, 224);
+    padding-top: 0.5em;
+}
+
+p {
+    padding-bottom: 2em;
+}
+
+section.mainstory a {
+    text-decoration: none;
+    color: #222;
+}
+
+section.secondary a {
+    text-decoration: none;
+    color: #222;
+}
+
+section.tertiary a {
+    text-decoration: none;
+    color: #222;
+}
+
+article {
+    padding: 0em 0.5em;
+}
+
+article h2 {
+    font-size: 3em;
+    padding: 0.5em 0em 0.2em 0em;
+}
+
+article p {
+    padding-bottom: 1em;
+}
+
+figcaption {
+    padding-bottom: 1em;
+    font-style: italic;
+    color: #6e6e6e;
+}
+
+aside {
+    background-color: rgb(218, 215, 255);
+    padding: 1em;
+}
+
+aside h2 {
+    font-size: 1.2em;
+}
+
+footer {
+    background-color: rgb(74, 135, 176);
+    color: white;
+    padding: 0.5em;
+
+}
