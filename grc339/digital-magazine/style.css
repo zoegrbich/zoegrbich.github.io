@@ -8,7 +8,9 @@ img {
 }
 
 body {
-	font-family: sans-serif;
+	font-family: "brother-1816", sans-serif;
+    font-weight: 300;
+    font-style: normal;
 	line-height: 1.2em;
 	color: #222;
     text-decoration: none;
@@ -27,9 +29,10 @@ h1 {
 nav ul li {
     display: block;
     margin-right: 1em;
-    font-weight: bold;
-    font-size: 1.5em;
-    font-family: sans-serif;
+    font-size: 1.4em;
+    font-family: "poster-cut-neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     line-height: 1.2em;
 }
 
@@ -39,7 +42,7 @@ ul {
 }
 
 nav ul li a {
-    color: rgb(74, 135, 176);
+    color: #05346E;
     text-decoration: none;
 }
 
@@ -51,21 +54,22 @@ nav ul li a {
 }
 
 h2 {
-    font-family: serif;
+    font-family: "poster-cut-neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 2em;
-    font-weight: bold; 
-    color: rgb(74, 135, 176);
+    color: #80001A;
     text-decoration: none;
     line-height: 1.2em;
 }
 
 section.mainstory h2 {
-    font-size: 3em;
+    font-size: 2.5em;
 }
 
 section.tertiary h2 {
     font-size: 1.2em;
-    border-top: 1px solid rgb(155, 196, 224);
+    border-top: 1px solid #13262F;
     padding-top: 0.5em;
 }
 
@@ -108,7 +112,7 @@ figcaption {
 }
 
 aside {
-    background-color: rgb(218, 215, 255);
+    background-color: #FCF7E6;
     padding: 1em;
 }
 
@@ -117,7 +121,7 @@ aside h2 {
 }
 
 footer {
-    background-color: rgb(74, 135, 176);
+    background-color: #13262F;
     color: #ffffff;
     padding: 0.5em;
     box-sizing: border-box;
